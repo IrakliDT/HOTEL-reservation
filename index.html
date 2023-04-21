@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/src/CSS/style.css">
+  <link rel="stylesheet" href="/src/CSS/responsive.css">
+  <link rel="stylesheet" href="/src/CSS/burger.css">
+</head>
+
+<body>
+  <!-- navigation -->
+  <header class="header">
+    <div class="container container-header header-scroll">
+      <a href="#">
+        <img id="logo" class="nav-logo" src="/src/imgs/Harmon_logo.svg" alt="nav-logo">
+      </a>
+      <div class="bar">
+        <div class="location">
+          <p>Anywhere</p>
+          <input type="text" placeholder="Where are you going?">
+        </div>
+        <div class="check-in">
+          <p>Any Week</p>
+          <input type="text" placeholder="Add dates">
+        </div>
+        <div class="guests">
+          <p>Add Guests</p>
+          <input type="text" placeholder="Add guests">
+          <span><img src="/src/imgs/search-logo.svg" alt=""></span>
+        </div>
+      </div>
+      <!-- burgermenu -->
+      <div id="burger-menu">
+        <span></span>
+      </div>
+
+      <div id="menu">
+        <ul>
+          <li><a href="index.html" href="#">Home</a></li>
+          <li><a href="#">Log In</a></li>
+          <li><a href="#rooms-title" href="#">Service</a></li>
+          <li><a href="hotels.html" href="#">All hotels</a></li>
+          <li><a class="line" href="#contact">Contact Us</a></li>
+        </ul>
+      </div>
+      <!-- burgermenu end-->
+      <nav>
+        <li><a class="line" href="#">Log In</a></li>
+        <li><a href="#rooms-title" class="line" href="#">Service</a></li>
+        <li><a class="line" href="#contact">Contact Us</a></li>
+      </nav>
+    </div>
+  </header>
+  <!-- navigation end-->
+
+
+
+  <!-- carousel -->
+  <section class="slide">
+    <div class="slider">
+      <div class="slide"></div>
+      <div class="slide"></div>
+      <div class="slide"></div>
+      <div class="slide"></div>
+      <div class="slide"></div>
+      <div class="slide"></div>
+  </section>
+  <!-- carousel end -->
+
+  <!-- typingtext  -->
+  <div class="header-info-par">
+    <h1 class="type-welc">Welcome</h1>
+    <h1 class="typewrite" data-period="2000" data-type='["The great getaway, your way "]'>
+    </h1>
+    <h4>Save at least 15% on stays worldwide</h4>
+    <a href="hotels.html" class="btn">
+      <img src="/src/imgs/booknow0logo.svg" alt="book">
+      Book Now
+    </a>
+  </div>
+  <!-- typingtext end -->
+
+  <!-- facilities -->
+  <section>
+    <div class="container facilities">
+      <h4 class="text-center sec-facilities">Facilities</h4>
+      <div class="facilities-item">
+        <div class="f-item">
+          <img src="/src/imgs/facilities/kitchens.svg" alt="kitchen">
+          <p class="mt-4 mr-5">Kitchen</p>
+        </div>
+        <div class="f-item">
+          <img src="/src/imgs/facilities/pool.svg" alt="Pool">
+          <p class="mt-4">Pool</p>
+        </div>
+        <div class="f-item">
+          <img src="/src/imgs/facilities/wifi.svg" alt="Wifi">
+          <p class="mt-4">Wifi</p>
+        </div>
+        <div class="f-item">
+          <img src="/src/imgs/facilities/fitness.svg" alt="Gym">
+          <p class="mt-4">Gym</p>
+        </div>
+        <div class="f-item">
+          <img src="/src/imgs/facilities/taxi.svg" alt="Taxi">
+          <p class="mt-4">Taxi</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- facilities end -->
+
+  <!-- rooms&rate -->
+  <section>
+    <div id="rooms-title" class="rooms-title d-flex  align-items-center justify-content-center">
+      <h1>Rooms & Rates</h1>
+    </div>
+    <div class="container d-flex  align-items-center justify-content-center mt-5">
+      <div class="rooms">
+        <div class="rooms-img">
+          <img src="/src/imgs/rooms and rate/st-twin.png" alt="">
+          <img src="/src/imgs/rooms and rate/st.png" alt="">
+        </div>
+        <div class="rooms-img mt-5">
+          <img src="/src/imgs/rooms and rate/st-view.png" alt="">
+          <img src="/src/imgs/rooms and rate/delux.png" alt="">
+        </div>
+      </div>
+    </div>
+    <div class="container mt-5 d-flex  align-items-center justify-content-center">
+      <div class="book-now">
+        <div class="book-now_title">
+          <h2>Get a room already!</h2>
+        </div>
+        <div class="book-now-btn mt-4">
+          <button>Book Now</button>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- rooms&rate end -->
+
+  <!-- customer -->
+  <section class="customer-say">
+    <div class="container">
+      <div class="customer d-flex align-items-center justify-content-center mt-5">
+        <div class="customer-title">
+          <h3>Our Customers Said</h3>
+        </div>
+      </div>
+      <div class="customer-inner d-flex">
+        <div class="customer-said_item d-flex justify-content-space-between mt-5">
+          <div class="customer-said-img mt-3">
+            <img class="custt-img" src="/src/imgs/customer/customer-apkho.jpg" alt="">
+          </div>
+          <div class="customer-said-text mt-3">
+            <h6>Giorgi Apkhadze</h6>
+            <p>Tbilisi, Georgia</p>
+          </div>
+          <img class="star" src="/src/imgs/STAR.svg" alt="">
+          <p class="mt-4">4.8</p>
+          <p class="customer-coment">“it was so good and wonderfull ilike this place so much “</p>
+        </div>
+        <div class="customer-said_item col-3 d-flex justify-content-space-between mt-5">
+          <div class="customer-said-img mt-3">
+            <img class="custt-img" src="/src/imgs/customer/customer-nini.jpg" alt="">
+          </div>
+          <div class="customer-said-text mt-3">
+            <h6>Nini Gvelukashvili</h6>
+            <p>Paris, France</p>
+          </div>
+          <img class="star" src="/src/imgs/STAR.svg" alt="">
+          <p class="mt-4">4.3</p>
+          <div class="customer-coment">
+            <p>“very exclusive service. really a very comfortable hotel the mattress is very soft like the rendang meat
+              that I met yesterday“</p>
+          </div>
+        </div>
+        <div class="customer-said_item col-3 d-flex justify-content-space-between mt-5">
+          <div class="customer-said-img mt-3">
+            <img class="custt-img" src="/src/imgs/customer/custom-Titus.webp" alt="">
+          </div>
+          <div class="customer-said-text mt-3">
+            <h6>Titus Wealth</h6>
+            <p>Dar es salaam , Tanzania</p>
+          </div>
+          <img class="star" src="/src/imgs/STAR.svg" alt="">
+          <p class="mt-4">4.5</p>
+          <div class="customer-coment">
+            <p>“Good rooms and services ill visit every weekend to enjoy with my family”</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- customer end -->
+
+
+  <!-- Page cursor -->
+  <div class='cursor' id="cursor"></div>
+  <div class='cursor2' id="cursor2"></div>
+  <div class='cursor3' id="cursor3"></div>
+  <!-- Page cursor end -->
+
+
+  <!-- footer -->
+  <footer id="contact">
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-sm-4 col-xs-12">
+            <div class="single_footer">
+              <h4>Support</h4>
+              <ul>
+                <li><a href="#">Help Center</a></li>
+                <li><a href="#">AirCover</a></li>
+                <li><a href="#">Supporting people with disabilities </a></li>
+                <li><a href="#">Cancellation options</a></li>
+                <li><a href="#">Report a neighborhood concern</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="single_footer single_footer_address">
+              <h4>Page Link</h4>
+              <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Learn about new features</a></li>
+                <li><a href="#">Letter from our founders</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Visit our community forum</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="single_footer single_footer_address">
+              <h4>Subscribe today</h4>
+              <div class="signup_form">
+                <form action="#" class="subscribe">
+                  <input id="mail-input" type="text" class="subscribe__input" placeholder="Enter Email Address">
+                  <button type="button" class="subscribe__btn"><i class="fas fa-paper-plane"><img id="mail-btn"
+                        class="w-100" src="/src/imgs/footer logo/mail.svg" alt=""></i></button>
+                </form>
+              </div>
+            </div>
+            <div class="social_profile">
+              <ul>
+                <li><a href="#"><img src="/src/imgs/footer logo/fb.svg" alt="fb-logo"></a></li>
+                <li><a href="#"><img src="/src/imgs/footer logo/insta.svg" alt="fb-logo"></a></li>
+                <li><a href="#"><img src="/src/imgs/footer logo/Twitter.svg" alt="fb-logo"></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 col-sm-12 col-xs-12">
+            <p class="copyright">Copyright © 2023 <a href="https://github.com/IrakliDT">Irakli Datiashvili</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- footer end -->
+
+
+
+  <script type="module" src="/src/javascript/script.js"></script>
+  <script src="/src/javascript/burgermenu.js"></script>
+</body>
+
+</html>

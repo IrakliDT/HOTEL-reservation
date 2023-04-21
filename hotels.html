@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vacation</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/src/CSS/hotels.css">
+  <link rel="stylesheet" href="/src/CSS/style.css">
+  <link rel="stylesheet" href="/src/CSS/responsive.css">
+  <link rel="stylesheet" href="/src/CSS/burger.css">
+
+</head>
+
+<body>
+  <!-- navigation -->
+  <header class="header">
+    <div class="container container-header ">
+      <a href="index.html">
+        <img id="logo" class="nav-logo" src="/src/imgs/Harmon_logo.svg" alt="nav-logo">
+      </a>
+      <div class="bar">
+        <div class="location">
+          <p>Anywhere</p>
+          <input type="text" placeholder="Where are you going?">
+        </div>
+        <div class="check-in">
+          <p>Any Week</p>
+          <input type="text" placeholder="Add dates">
+        </div>
+        <div class="guests">
+          <p>Add Guests</p>
+          <input type="text" placeholder="Add guests">
+          <span><img src="/src/imgs/search-logo.svg" alt=""></span>
+        </div>
+      </div>
+      <!-- burgermenu -->
+      <div id="burger-menu">
+        <span></span>
+      </div>
+
+      <div id="menu">
+        <ul>
+          <li><a href="index.html" href="#">Home</a></li>
+          <li><a href="#">Log In</a></li>
+          <li><a href="#rooms-title" href="#">Service</a></li>
+          <li><a class="line" href="#contact">Contact Us</a></li>
+        </ul>
+      </div>
+      <!-- burgermenu end-->
+      <nav>
+        <li><a class="line" href="#">Log In</a></li>
+        <li><a class="line" href="#">Service</a></li>
+        <li><a class="line" href="#">Contact Us</a></li>
+      </nav>
+    </div>
+  </header>
+  <!-- navigation end-->
+
+  <div class="container">
+    <div class="row" id="main">
+
+
+    </div>
+  </div>
+
+  <!-- footer -->
+  <footer id="contact">
+    <div class="footer mt-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-sm-4 col-xs-12">
+            <div class="single_footer">
+              <h4>Support</h4>
+              <ul>
+                <li><a href="#">Help Center</a></li>
+                <li><a href="#">AirCover</a></li>
+                <li><a href="#">Supporting people with disabilities </a></li>
+                <li><a href="#">Cancellation options</a></li>
+                <li><a href="#">Report a neighborhood concern</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="single_footer single_footer_address">
+              <h4>Page Link</h4>
+              <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Learn about new features</a></li>
+                <li><a href="#">Letter from our founders</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Visit our community forum</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="single_footer single_footer_address">
+              <h4>Subscribe today</h4>
+              <div class="signup_form">
+                <form action="#" class="subscribe">
+                  <input id="mail-input" type="text" class="subscribe__input" placeholder="Enter Email Address">
+                  <button type="button" class="subscribe__btn"><i class="fas fa-paper-plane"><img id="mail-btn"
+                        class="w-100" src="/src/imgs/footer logo/mail.svg" alt=""></i></button>
+                </form>
+              </div>
+            </div>
+            <div class="social_profile">
+              <ul>
+                <li><a href="#"><img src="/src/imgs/footer logo/fb.svg" alt="fb-logo"></a></li>
+                <li><a href="#"><img src="/src/imgs/footer logo/insta.svg" alt="fb-logo"></a></li>
+                <li><a href="#"><img src="/src/imgs/footer logo/Twitter.svg" alt="fb-logo"></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 col-sm-12 col-xs-12">
+            <p class="copyright">Copyright © 2023 <a href="https://github.com/IrakliDT">Irakli Datiashvili</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- footer end -->
+
+  <!-- cursor -->
+  <div class="cursor">
+
+  </div>
+  <div class="custom">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+      <path id="circlePath" transform="translate(25 25)"
+        d="M50,100L50,100C22.4,100,0,77.6,0,50v0C0,22.4,22.4,0,50,0h0c27.6,0,50,22.4,50,50v0C100,77.6,77.6,100,50,100z"
+        fill="none" />
+      <g>
+        <text fill="black">
+          <textPath xlink:href="#circlePath">
+            JOIN THE HARMO HOTEL
+          </textPath>
+        </text>
+      </g>
+    </svg>
+  </div>
+  <!-- cursor end -->
+
+  <script type="module" src="/src/javascript/hotels.js"></script>
+  <script src="/src/javascript/burgermenu.js"></script>
+</body>
+
+</html>

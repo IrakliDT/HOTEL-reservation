@@ -1,0 +1,1377 @@
+{
+  "count": 366,
+  "mapPageFields": {
+    "propertyAnnotations": [
+      {
+        "latitude": 50.0785011007103,
+        "longitude": 14.476021528244
+      },
+      {
+        "longitude": 14.44738894701,
+        "latitude": 50.1040139170031
+      },
+      {
+        "latitude": 50.068306632635,
+        "longitude": 14.4713115692139
+      },
+      {
+        "latitude": 50.0833381624713,
+        "longitude": 14.4158527254604
+      },
+      {
+        "latitude": 50.0880602,
+        "longitude": 14.3986701
+      },
+      {
+        "latitude": 50.0762551680978,
+        "longitude": 14.4137105345544
+      },
+      {
+        "longitude": 14.4468176364899,
+        "latitude": 50.1175529395455
+      },
+      {
+        "longitude": 14.4256375730038,
+        "latitude": 50.0911710147982
+      },
+      {
+        "longitude": 14.4835370779037,
+        "latitude": 50.1012234153305
+      },
+      {
+        "latitude": 50.0708421108389,
+        "longitude": 14.4298030436039
+      },
+      {
+        "latitude": 50.0762621550792,
+        "longitude": 14.4281644294477
+      },
+      {
+        "longitude": 14.4286303,
+        "latitude": 50.0774245
+      },
+      {
+        "latitude": 50.086882972112,
+        "longitude": 14.4192619621754
+      },
+      {
+        "latitude": 50.0858641452565,
+        "longitude": 14.4222405552864
+      },
+      {
+        "latitude": 50.084796,
+        "longitude": 14.433097
+      },
+      {
+        "longitude": 14.408475458622,
+        "latitude": 50.086364956434
+      },
+      {
+        "latitude": 50.076501,
+        "longitude": 14.453478
+      },
+      {
+        "longitude": 14.4144916534424,
+        "latitude": 50.0851783180237
+      },
+      {
+        "latitude": 50.0840002556188,
+        "longitude": 14.427929520607
+      },
+      {
+        "latitude": 50.0850293374256,
+        "longitude": 14.4209586233483
+      }
+    ],
+    "boundingBox": {
+      "swLat": 49.9970216,
+      "neLon": 14.6035552024841,
+      "swLon": 14.2691427469254,
+      "neLat": 50.1492922727814
+    }
+  },
+  "results": [
+    {
+      "id": 685871,
+      "name": "Ambassadori Kachreti Golf Resort",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/322295234.jpg?k=75b501bcf827fb601870bd592eee1f32ce2472b7d14fcd0b8b7ff7e69e04bc3b&o=&hp=1",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "GE",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "currency": "$150",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.9,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 61505,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Georgia kakheti",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 685872,
+      "name": "Lopota Lake Resort & Spa",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://gcdn1.mouzenidis.com/userfiles/hotels/original/6131255/6131255_lopota_176827.jpeg",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "GE",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "currency": "$350",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.9,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 261505,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Georgia Kakheti",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 685873,
+      "name": "Vazisubani Estate",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/299902163.jpg?k=1d6865d04b6d6d393d0e72fae76c41873953a8737df2c54d9e66e157188a8dab&o=&hp=1",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "GE",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "currency": "$280",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.7,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 61505,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Georgia Kakheti",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 685874,
+      "name": "Akhasheni Wine Resort & SPA",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://travelfy.ge/wp-content/uploads/2020/09/6e3271dbd22394361fcebd73d1ec9965-870x555-1.jpg",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "GE",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "currency": "$250",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9.2,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 61505,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Georgia Akhasheni",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 685875,
+      "name": "Hilton Batumi",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://www.hilton.com/im/en/BUSBTHI/3127830/img-3858.jpg?impolicy=crop&cw=5472&ch=3078&gravity=NorthWest&xposition=0&yposition=285&rw=1440&rh=810",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "GE",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "currency": "$450",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.4,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 61505,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Georgia Batumi",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 685871,
+      "name": "Kvareli Lake Resort | SPA & Wellness",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/39/9c/70/kvareli-lake-resort.jpg",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "GE",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "currency": "$166",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.5,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 61505,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Georgia Kvareli",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 685871,
+      "name": "HOTEL RIXOS BORJOMI 5*",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://rixos-borjomi-ge.booked.net/data/Photos/OriginalPhoto/9154/915421/915421186/Rixos-Borjomi-Hotel-Exterior.JPEG",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "GE",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "currency": "$440",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9.2,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 61505,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Georgia Borjomi",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 68587,
+      "name": "Don Giovanni Hotel Prague",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://www.hotelroyalprague.com/userfiles/thumbs/36/_dsc8818-kopie_1489495114_1920x1280_tt_90.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/411228356.jpg?k=431cbfbab9315676bd65fca66da66e2e0ec942c6511573c266171eefe3923e42&o="
+      ],
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "cz",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 589.721373099222
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$110",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 21105,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 77537,
+      "name": "Wellness Hotel Extol Inn",
+      "mainPhotoId": 312384229,
+      "photoMainUrl": "https://www.hotelroyalprague.com/userfiles/thumbs/5c/_dsc8362_1488554060_1920x1280_tt_90.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/312384229.jpg?k=5f86005072e3f32adc84c2749618e1e8dd2bd288843667aecdea15f2fbbb2cb1&o="
+      ],
+      "position": 3,
+      "rankingPosition": 3,
+      "countryCode": "cz",
+      "latitude": 50.1040139170031,
+      "longitude": 14.44738894701,
+      "priceBreakdown": {
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 862.517654532875
+        },
+        "benefitBadges": [],
+        "taxExceptions": [],
+        "grossPrice": {
+          "value": 517.510592719725,
+          "currency": "AED"
+        }
+      },
+      "currency": "$130",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "14:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.9,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 7764,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Vienna",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 77731,
+      "name": "Iris Hotel Eden",
+      "mainPhotoId": 417361517,
+      "photoMainUrl": "https://media.hrs.com/media/image/9f/74/7d/President-Prag-Junior-Suite-1-14891.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/417361517.jpg?k=cc75faac819b1434316f7532cd355de2b4082c24c5a3d04d9b9b86f6a6e67aa6&o="
+      ],
+      "position": 5,
+      "rankingPosition": 5,
+      "countryCode": "cz",
+      "latitude": 50.068306632635,
+      "longitude": 14.4713115692139,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 493.440332593226
+        },
+        "taxExceptions": [],
+        "benefitBadges": [],
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 822.400554322044
+        } 
+      },
+      "currency": "$140",
+      "checkin": {
+        "fromTime": "15:00",
+        "untilTime": "00:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 3978,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Romme",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 77099,
+      "name": "Residence Bologna",
+      "mainPhotoId": 165820759,
+      "photoMainUrl": "https://media-cdn.tripadvisor.com/media/photo-s/25/fb/7b/fc/rde-dbl-nyx-prague-aug.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/165820759.jpg?k=18ff496f0188e4d7cf642021e889a89e2af87e3209f9ed30b7f04a0f98f459ae&o="
+      ],
+      "position": 6,
+      "rankingPosition": 6,
+      "countryCode": "cz",
+      "latitude": 50.0833381624713,
+      "longitude": 14.4158527254604,
+      "priceBreakdown": {
+        "benefitBadges": [],
+        "taxExceptions": [],
+        "grossPrice": {
+          "value": 683.996558594676,
+          "currency": "AED"
+        }
+      },
+      "currency": "$115",
+      "checkin": {
+        "fromTime": "14:00",
+        "untilTime": "00:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.4,
+      "reviewScoreWord": "Very good",
+      "reviewCount": 5064,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Amsterdam",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 2395001,
+      "name": "MOOo by the Castle",
+      "mainPhotoId": 184316991,
+      "photoMainUrl": "https://www.hotel-charles.eu/wp-content/uploads/sites/435/2022/07/22-32-Charles_Room04_01-1-2200x1200.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/184316991.jpg?k=df8a1de0668b2ec490480fdd24d46c5c0432653302781a6a7c49f0f2fe466005&o="
+      ],
+      "position": 7,
+      "rankingPosition": 7,
+      "countryCode": "cz",
+      "latitude": 50.0880602,
+      "longitude": 14.3986701,
+      "priceBreakdown": {
+        "strikethroughPrice": {
+          "value": 745.776892919356,
+          "currency": "AED"
+        },
+        "benefitBadges": [
+          {
+            "identifier": "Mobile Rate",
+            "explanation": "Mobile-only price",
+            "variant": "constructive",
+            "text": "Mobile-only price"
+          }
+        ],
+        "taxExceptions": [],
+        "grossPrice": {
+          "value": 725.357288912043,
+          "currency": "AED"
+        }
+      },
+      "currency": "$160",
+      "checkin": {
+        "fromTime": "15:00",
+        "untilTime": "18:00"
+      },
+      "checkout": {
+        "fromTime": "00:00",
+        "untilTime": "12:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9.7,
+      "reviewScoreWord": "Exceptional",
+      "reviewCount": 873,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Neapolitan",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 236155,
+      "name": "Boat Hotel Matylda",
+      "mainPhotoId": 23592324,
+      "photoMainUrl": "https://images.mrandmrssmith.com/images/1482x988/3620406-boho-hotel-prague-czech-republic.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/23592324.jpg?k=23f8ce48c7b13886e2f9828fbd1613e7542b1d43e900e076150c01e8fe5ec298&o="
+      ],
+      "position": 9,
+      "rankingPosition": 9,
+      "countryCode": "cz",
+      "latitude": 50.0762551680978,
+      "longitude": 14.4137105345544,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 557.627692930557
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$140",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "14:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.9,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 2057,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Milan",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 298942,
+      "name": "Castle Residence Praha",
+      "mainPhotoId": 6827371,
+      "photoMainUrl": "https://image-tc.galaxy.tf/wijpeg-7ow6vszvhyxd5hwr7lhd15od7/falkensteiner-hotel-prague-junior-suite-interior-view.jpg?width=1920",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/6827371.jpg?k=de6d31fd33b3d083c64ad4ec7a6f763955a487faa7e318a9e372ccbd9cf4dd56&o="
+      ],
+      "position": 10,
+      "rankingPosition": 10,
+      "countryCode": "cz",
+      "latitude": 50.1175529395455,
+      "longitude": 14.4468176364899,
+      "priceBreakdown": {
+        "taxExceptions": [],
+        "benefitBadges": [],
+        "grossPrice": {
+          "currency": "AED",
+          "value": 557.627692930557
+        }
+      },
+      "currency": "$220",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "14:00"
+      },
+      "checkout": {
+        "fromTime": "00:00",
+        "untilTime": "12:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.6,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 478,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Hamburg",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 185658,
+      "name": "Metropolitan Old Town Hotel",
+      "mainPhotoId": 401140443,
+      "photoMainUrl": "https://image-tc.galaxy.tf/wijpeg-6ik8b6wx6br4l5b06wmnvklg0/falkensteiner-hotel-prague-zimmer-header-3.jpg?width=1920",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/401140443.jpg?k=f9f9eba827b8f65ebada95283c475ed8a143b979f065f34bd33dafadb2e0d98a&o="
+      ],
+      "position": 11,
+      "rankingPosition": 11,
+      "countryCode": "cz",
+      "latitude": 50.0911710147982,
+      "longitude": 14.4256375730038,
+      "priceBreakdown": {
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 1427.4466597018
+        },
+        "benefitBadges": [],
+        "taxExceptions": [],
+        "grossPrice": {
+          "value": 713.723329850902,
+          "currency": "AED"
+        }
+      },
+      "currency": "$185",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "14:00"
+      },
+      "checkout": {
+        "fromTime": "01:00",
+        "untilTime": "11:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 6532,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Greece",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 77359,
+      "name": "Wellness Hotel Step",
+      "mainPhotoId": 357930059,
+      "photoMainUrl": "https://cache.marriott.com/content/dam/marriott-renditions/PRGDT/prgdt-double-double-1006-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/357930059.jpg?k=2551be7b289d6a669ae9e4b961d707833d79a24e8152f55b4d256db4b0379b4c&o="
+      ],
+      "position": 12,
+      "rankingPosition": 12,
+      "countryCode": "cz",
+      "latitude": 50.1012234153305,
+      "longitude": 14.4835370779037,
+      "priceBreakdown": {
+        "grossPrice": {
+          "value": 690.0141236263,
+          "currency": "AED"
+        },
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 1355.9579871261
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$260",
+      "checkin": {
+        "fromTime": "14:00",
+        "untilTime": "00:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.8,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 5248,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Thessaloniki",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 77568,
+      "name": "Hotel Assenzio Prague",
+      "mainPhotoId": 224301354,
+      "photoMainUrl": "https://image-tc.galaxy.tf/wijpeg-bj7hsou4yyov0hi0o1z3qh55c/leonardo-interior-1.jpg?width=1920",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/224301354.jpg?k=3266aa3de29c1e620a591b238868a344204d86cd771514e80cff6a41e0ca3746&o="
+      ],
+      "position": 13,
+      "rankingPosition": 13,
+      "countryCode": "cz",
+      "latitude": 50.0708421108389,
+      "longitude": 14.4298030436039,
+      "priceBreakdown": {
+        "benefitBadges": [
+          {
+            "identifier": "Mobile Rate",
+            "explanation": "Mobile-only price",
+            "variant": "constructive",
+            "text": "Mobile-only price"
+          }
+        ],
+        "taxExceptions": [],
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 485.41691255106
+        },
+        "grossPrice": {
+          "currency": "AED",
+          "value": 439.282247308604
+        }
+      },
+      "currency": "$950",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "14:00"
+      },
+      "checkout": {
+        "untilTime": "12:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.3,
+      "reviewScoreWord": "Very good",
+      "reviewCount": 2417,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Halkidiki",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 1891169,
+      "name": "H7 Palace",
+      "mainPhotoId": 75959757,
+      "photoMainUrl": "https://leonardo-hotel-prague.hotel-ds.com/data/Imgs/OriginalPhoto/12749/1274951/1274951875/leonardo-hotel-110-00-prague-img-7.JPEG",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/75959757.jpg?k=fc24b985b0580c8e7ac3a9836bc4c6d013593280eed790b3b65fe60f82e3d2f9&o="
+      ],
+      "position": 14,
+      "rankingPosition": 14,
+      "countryCode": "cz",
+      "latitude": 50.0762621550792,
+      "longitude": 14.4281644294477,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 475.387637498352
+        },
+        "taxExceptions": [],
+        "benefitBadges": [
+          {
+            "identifier": "Mobile Rate",
+            "explanation": "Mobile-only price",
+            "variant": "constructive",
+            "text": "Mobile-only price"
+          }
+        ],
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 525.534012761892
+        }
+      },
+      "currency": "$540",
+      "checkin": {
+        "untilTime": "20:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.9,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 1084,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Budapest",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 1980266,
+      "name": "Salvator Boutique Hotel",
+      "mainPhotoId": 382490678,
+      "photoMainUrl": "https://www.thejulius.eu/propeller/uploads/2021/10/foto-35_2063-1450x1088.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/382490678.jpg?k=3a4569f8d6b66dec66bbd52f1d4f53e84e35dc0fb9923a0ea6b8e39f4333dda0&o="
+      ],
+      "position": 15,
+      "rankingPosition": 15,
+      "countryCode": "cz",
+      "latitude": 50.0774245,
+      "longitude": 14.4286303,
+      "priceBreakdown": {
+        "grossPrice": {
+          "value": 479.920869822176,
+          "currency": "AED"
+        },
+        "taxExceptions": [],
+        "benefitBadges": [
+          {
+            "variant": "constructive",
+            "text": "Mobile-only price",
+            "identifier": "Mobile Rate",
+            "explanation": "Mobile-only price"
+          }
+        ],
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 530.548650288245
+        }
+      },
+      "currency": "$499",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "13:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.5,
+      "reviewScoreWord": "Very good",
+      "reviewCount": 2480,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Vienna",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 77250,
+      "name": "Hotel Rott",
+      "mainPhotoId": 318433305,
+      "photoMainUrl": "https://the-julius-prague.booked.net/data/Photos/OriginalPhoto/12860/1286083/1286083876/The-Julius-Prague-Hotel-Exterior.JPEG",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/318433305.jpg?k=16a504d7172fc34d542d80a1dc7aab961330634c7300606951487cda7ab3d11e&o="
+      ],
+      "position": 16,
+      "rankingPosition": 16,
+      "countryCode": "cz",
+      "latitude": 50.086882972112,
+      "longitude": 14.4192619621754,
+      "priceBreakdown": {
+        "taxExceptions": [],
+        "benefitBadges": [
+          {
+            "explanation": "Mobile-only price",
+            "identifier": "Mobile Rate",
+            "text": "Mobile-only price",
+            "variant": "constructive"
+          }
+        ],
+        "strikethroughPrice": {
+          "currency": "AED",
+          "value": 941.147170946105
+        },
+        "grossPrice": {
+          "currency": "AED",
+          "value": 849.680182465409
+        }
+      },
+      "currency": "$400",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "12:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9.2,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 1540,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Cyprus",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 266091,
+      "name": "Hotel Leon D´Oro",
+      "mainPhotoId": 167547859,
+      "photoMainUrl": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Czech%20Republic/Prague/mama-shelter-prague-czech-republic-p.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/167547859.jpg?k=2b5269eaf79eecb6d2197f30ba3ef900db5c9b5ebf4638ab24e623a8b7a5c4fd&o="
+      ],
+      "position": 17,
+      "rankingPosition": 17,
+      "countryCode": "cz",
+      "latitude": 50.0858641452565,
+      "longitude": 14.4222405552864,
+      "priceBreakdown": {
+        "benefitBadges": [],
+        "taxExceptions": [],
+        "grossPrice": {
+          "value": 846.470814448543,
+          "currency": "AED"
+        }
+      },
+      "currency": "$140",
+      "checkin": {
+        "fromTime": "14:00",
+        "untilTime": "00:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.8,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 5183,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Vennecia",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 5498004,
+      "name": "Miss Sophie's Downtown",
+      "mainPhotoId": 263944643,
+      "photoMainUrl": "https://olympik-hotel-prague.at-hotels.com/data/Imgs/OriginalPhoto/6846/684613/684613536/olympik-hotel-prague-img-1.JPEG",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/263944643.jpg?k=07cbfcb30ed658bbff050bf9112b61c3acc31b77ce5cedea4716ccf7ec81f229&o="
+      ],
+      "position": 18,
+      "rankingPosition": 18,
+      "countryCode": "cz",
+      "latitude": 50.084796,
+      "longitude": 14.433097,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 648.171988106403
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$80",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "fromTime": "00:00",
+        "untilTime": "11:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 4567,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 236111,
+      "name": "Hotel At the Golden Scissors",
+      "mainPhotoId": 142754700,
+      "photoMainUrl": "https://media.radissonhotels.net/image/radisson-blu-hotel-prague/guest-room/16256-117540-f65753272_3xl.jpg?impolicy=HomeHero",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/142754700.jpg?k=493623297c484785aea692da70028c469d583c1dd069269a6e632ecc23ece3a0&o="
+      ],
+      "position": 19,
+      "rankingPosition": 19,
+      "countryCode": "cz",
+      "latitude": 50.086364956434,
+      "longitude": 14.408475458622,
+      "priceBreakdown": {
+        "grossPrice": {
+          "value": 874.552784596125,
+          "currency": "AED"
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$105",
+      "checkin": {
+        "untilTime": "20:00",
+        "fromTime": "14:00"
+      },
+      "checkout": {
+        "fromTime": "08:00",
+        "untilTime": "11:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9.1,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 674,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 8733233,
+      "name": "FLEUR DE LIS HOTEL",
+      "mainPhotoId": 426576230,
+      "photoMainUrl": "https://static.leonardo-hotels.com/image/rs_dblinqua_nyxprague_01_aug19_4000x2600_3da5ad43cef1e025c4e993fac7919f77_1200x780_mobile_3.jpeg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/426576230.jpg?k=831a60e3e5a0e532cb0bff0eab417cd18f64c7592ede6ac8f4211cc4e60c714f&o="
+      ],
+      "position": 20,
+      "rankingPosition": 20,
+      "countryCode": "cz",
+      "latitude": 50.076501,
+      "longitude": 14.453478,
+      "priceBreakdown": {
+        "grossPrice": {
+          "value": 544.228581460139,
+          "currency": "AED"
+        },
+        "benefitBadges": [],
+        "taxExceptions": []
+      },
+      "currency": "$130",
+      "checkin": {
+        "fromTime": "14:00",
+        "untilTime": "22:00"
+      },
+      "checkout": {
+        "fromTime": "00:00",
+        "untilTime": "11:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.9,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 894,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 328983,
+      "name": "Charles Bridge Palace",
+      "mainPhotoId": 443629537,
+      "photoMainUrl": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2019/03/BOHO-PRAGUE-HOTEL.jpg?ssl=1",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/443629537.jpg?k=706f292d11a3ee3d9380cc897249db6eed7928798079df781e081f98be6d9bb3&o="
+      ],
+      "position": 21,
+      "rankingPosition": 21,
+      "countryCode": "cz",
+      "latitude": 50.0851783180237,
+      "longitude": 14.4144916534424,
+      "priceBreakdown": {
+        "grossPrice": {
+          "value": 886.587914659374,
+          "currency": "AED"
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$150",
+      "checkin": {
+        "fromTime": "14:00",
+        "untilTime": "00:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.6,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 4029,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 385678,
+      "name": "NYX Hotel Prague Hotels",
+      "mainPhotoId": 385585102,
+      "photoMainUrl": "https://www.hotel-grandium.cz/files-sbbasic/ba_grandiumprague_cz/grandium_prague_street_view_151.jpg?w=1200&h=627",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/385585102.jpg?k=32949949e6cb352e5ecae20f4e47f3998d781a217b7140eaf1ec0edc723fc04a&o="
+      ],
+      "position": 22,
+      "rankingPosition": 22,
+      "countryCode": "cz",
+      "latitude": 50.0840002556188,
+      "longitude": 14.427929520607,
+      "priceBreakdown": {
+        "grossPrice": {
+          "value": 778.271744090129,
+          "currency": "AED"
+        },
+        "benefitBadges": [],
+        "taxExceptions": []
+      },
+      "currency": "$180",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "14:00"
+      },
+      "checkout": {
+        "fromTime": "00:00",
+        "untilTime": "11:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.6,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 3634,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 1615346,
+      "name": "Garden and David Apartments",
+      "mainPhotoId": 59739772,
+      "photoMainUrl": "https://secure.s.forbestravelguide.com/img/properties/boho-hotel-prague/boho-hotel-prague-junior-suite.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/59739772.jpg?k=b1c0457ef7a3f68b4f1cc32bc2e5d40d23c0e7431f46b31d3739f7363daad695&o="
+      ],
+      "position": 23,
+      "rankingPosition": 23,
+      "countryCode": "cz",
+      "latitude": 50.0850293374256,
+      "longitude": 14.4209586233483,
+      "priceBreakdown": {
+        "taxExceptions": [],
+        "benefitBadges": [],
+        "grossPrice": {
+          "currency": "AED",
+          "value": 786.295164132296
+        }
+      },
+      "currency": "$135",
+      "checkin": {
+        "fromTime": "14:00",
+        "untilTime": "21:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "07:30"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.8,
+      "reviewScoreWord": "Fabulous",
+      "reviewCount": 181,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 0
+    },
+    {
+      "id": 68587,
+      "name": "Don Giovanni Hotel Prague Hotels",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://www.hotelroyalprague.com/userfiles/thumbs/36/_dsc8818-kopie_1489495114_1920x1280_tt_90.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/411228356.jpg?k=431cbfbab9315676bd65fca66da66e2e0ec942c6511573c266171eefe3923e42&o="
+      ],
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "cz",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 589.721373099222
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$110",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 21105,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Prague",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 68587,
+      "name": "Hotel Rooms & Amenities",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://media.cntraveler.com/photos/624320bebf4daa9b4dedfe84/master/w_2100,h_1401,c_limit/The%20St.%20Regis%20Dubai,%20The%20Palm_strDXBPXst.1023739.jpg",
+      "photoUrls": [
+        "https://cf.bstatic.com/xdata/images/hotel/square60/411228356.jpg?k=431cbfbab9315676bd65fca66da66e2e0ec942c6511573c266171eefe3923e42&o="
+      ],
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "cz",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 589.721373099222
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$410",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 9.7,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 21105,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Dubai",
+      "optOutFromGalleryChanges": 1
+    },
+    {
+      "id": 68587,
+      "name": "Como escolher hotel nas Maldivas",
+      "mainPhotoId": 411228356,
+      "photoMainUrl": "https://ilhasmaldivas.com.br/wp-content/uploads/2022/08/hotel-maldivas.jpg",
+      "position": 2,
+      "rankingPosition": 2,
+      "countryCode": "cz",
+      "latitude": 50.0785011007103,
+      "longitude": 14.476021528244,
+      "priceBreakdown": {
+        "grossPrice": {
+          "currency": "AED",
+          "value": 589.721373099222
+        },
+        "taxExceptions": [],
+        "benefitBadges": []
+      },
+      "currency": "$290",
+      "checkin": {
+        "untilTime": "00:00",
+        "fromTime": "15:00"
+      },
+      "checkout": {
+        "untilTime": "11:00",
+        "fromTime": "00:00"
+      },
+      "checkoutDate": "2023-09-28",
+      "checkinDate": "2023-09-27",
+      "reviewScore": 8.2,
+      "reviewScoreWord": "Superb",
+      "reviewCount": 221105,
+      "qualityClass": 0,
+      "isFirstPage": true,
+      "accuratePropertyClass": 4,
+      "propertyClass": 4,
+      "ufi": -553173,
+      "wishlistName": "Maldives",
+      "optOutFromGalleryChanges": 1
+    }
+
+  ]
+}
